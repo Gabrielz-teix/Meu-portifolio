@@ -1,2 +1,5 @@
-# Ignora qualquer __pycache__ em qualquer lugar do projeto
+# ignora qualquer __pycache__ em qualquer nível
 **/__pycache__/
+
+# ou, restrito dentro de Game/
+/Game/**/__pycache__/
