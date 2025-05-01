@@ -37,7 +37,7 @@ class Lanterna:
         # Calcula a posição da lanterna ajustada pela câmera
         keys = pygame.key.get_pressed()
         
-        self.lanterna_pos_x = player_x + player_width // 2 - camera_x + 30
+        self.lanterna_pos_x = player_x + player_width // 2 - camera_x + 20
         self.lanterna_pos_y = player_y + player_height // 2 - camera_y + 30
 
         if self.ligada:
