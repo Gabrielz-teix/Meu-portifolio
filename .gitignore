@@ -1,6 +1,2 @@
-Game/__pycache__/
-Game/src/__pycache__/
-Game/src/estagios/__pycache__/
-Game/src/data/__pycache__/
-Game/src/core/__pycache__/
-Game/src/components/__pycache__/
+# Ignora qualquer __pycache__ em qualquer lugar do projeto
+**/__pycache__/
